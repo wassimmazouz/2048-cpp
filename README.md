@@ -1,6 +1,6 @@
 # The 2048 Game
 
-** It is recommended to run the application using the "MINGW" kit.**  
+It is recommended to run the application using the "MINGW" kit. 
 **If another kit is used, an error may appear. In that case, please click the 'Ignore' button to continue running the application.**
 
 ## Description
